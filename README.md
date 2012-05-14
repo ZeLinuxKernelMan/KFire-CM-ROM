@@ -1,4 +1,4 @@
 KFire-CM-ROM
 ============
 
-My CM7+CM9 ROMS
+Thanks to Hashcode for files
